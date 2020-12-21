@@ -9,5 +9,12 @@
   "Comment": {
     "body": "string",
     "post": "Post"
-  }
+  },
+    "Post": {
+    "title": "title 2",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
 }
